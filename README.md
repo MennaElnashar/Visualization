@@ -1,6 +1,6 @@
 # Visualization
 
-This project focuses on data visualization using two different datasets: "googleplaystore.csv" and "country_wise_latest.csv." 
+This project focuses on data visualization using two different datasets: Google Play Store Apps and COVID 19. 
 
 The "googleplaystore.csv" dataset provides information about various apps available on the Google Play Store, such as their ratings, number of reviews, genres, type (free or paid), and number of installs.
 
