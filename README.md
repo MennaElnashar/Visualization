@@ -1,10 +1,13 @@
 # Visualization
-A data visualization project on two different datasets
 
-The first dataset googleplaystore.csv is about google play store apps including their ratings, number of reviews, genres, type, and number of installs.
+This project focuses on data visualization using two different datasets: "googleplaystore.csv" and "country_wise_latest.csv." 
 
-The second dataset country_wise_latest.csv is about COVID 19 and it includes the number of active, recovered, and death cases in addition to their region.
+The "googleplaystore.csv" dataset provides information about various apps available on the Google Play Store, such as their ratings, number of reviews, genres, type (free or paid), and number of installs.
 
-In this project, I used different Python libraries to create different static and interactive visualizations that help the user understand the data in an easy way.
+The "country_wise_latest.csv" dataset contains data related to COVID-19, including the number of active cases, recovered cases, and deaths, categorized by different regions.
 
-Data Visualization Project.ipynb is the Python Notebook of the project and I suggest running it on your own computer to see the interactive visuals.
+To create the visualizations, this project utilizes various Python libraries that specialize in data visualization. These libraries may include but are not limited to Matplotlib, Seaborn, Plotly, and Pandas.
+
+The project generates a range of static and interactive visualizations by employing these tools. These visualizations aid users in comprehending the data more easily and provide insights into patterns, trends, and relationships present within the datasets.
+
+To explore the project further, you can access the Python Notebook titled "Data Visualization Project.ipynb". Running this notebook on your own computer will enable you to interact with the visualizations and gain a deeper understanding of the data.
